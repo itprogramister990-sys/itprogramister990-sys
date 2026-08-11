@@ -84,6 +84,12 @@ A high-performance CUDA engine that searches for violations of the Riemann Hypot
 
 ---
 
+### 🧠 [JARVIS MAX](https://github.com/itprogramister990-sys/jarvis) *(System-Level AI Agent)*
+> *Proactive AI assistant with local memory, vision, and OS automation*
+A highly advanced local AI agent built with a decoupled Python backend and Tauri/React frontend. Features real-time screen vision, Qwen3-TTS, Gemini integration, and consolidates long-term memory into an Obsidian Vault. Fully autonomous system management (file sorting, activity tracking, clipboard monitoring).
+`Python` `Tauri` `React` `Obsidian` `Gemini` `PyTorch` `AI Agent`
+---
+
 ### 🎧 [StealthIQ](https://github.com/itprogramister990-sys/StealthIQ-)
 > *Hidden AI assistant for technical interviews*
 
