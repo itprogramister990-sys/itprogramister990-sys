@@ -88,6 +88,14 @@ A high-performance CUDA engine that searches for violations of the Riemann Hypot
 > *Proactive AI assistant with local memory, vision, and OS automation*
 A highly advanced local AI agent built with a decoupled Python backend and Tauri/React frontend. Features real-time screen vision, Qwen3-TTS, Gemini integration, and consolidates long-term memory into an Obsidian Vault. Fully autonomous system management (file sorting, activity tracking, clipboard monitoring).
 `Python` `Tauri` `React` `Obsidian` `Gemini` `PyTorch` `AI Agent`
+
+---
+
+### 🏢 [JARVIS Business Edition](https://github.com/itprogramister990-sys/jarvis-buisness) *(Corporate AI Solution)*
+> *Enterprise-grade AI assistant with local RAG and multimodal vision*
+A deployable B2B AI solution that guarantees 100% data privacy. Features a React/Vite glassmorphic UI, a local ChromaDB vector database for RAG, and an Obsidian Markdown knowledge vault. Designed to securely process corporate documents and clinical protocols locally without relying on external cloud APIs.
+`React` `Python` `ChromaDB` `Obsidian` `RAG` `B2B` `WebSockets`
+
 ---
 
 ### 🎧 [StealthIQ](https://github.com/itprogramister990-sys/StealthIQ-)
