@@ -91,6 +91,12 @@ A highly advanced local AI agent built with a decoupled Python backend and Tauri
 
 ---
 
+### 📚 [ENT Helper](https://github.com/itprogramister990-sys/ENT-HELPER) *(EdTech AI Platform)*
+> *Intelligent preparation platform for Kazakhstan's National University Testing (ENT)*
+A full-stack educational platform featuring an AI tutor ("Professor Alibek") powered by the Gemini API. Generates highly accurate ENT tests across 12 subject profiles, tracks student progress, and offers 3D flashcards for rapid memorization. Built with a responsive glassmorphic UI matching Kazakhstan's national colors.
+`React` `FastAPI` `Gemini API` `Framer Motion` `EdTech` `SQLite`
+---
+
 ### 🏢 [JARVIS Business Edition](https://github.com/itprogramister990-sys/jarvis-buisness) *(Corporate AI Solution)*
 > *Enterprise-grade AI assistant with local RAG and multimodal vision*
 A deployable B2B AI solution that guarantees 100% data privacy. Features a React/Vite glassmorphic UI, a local ChromaDB vector database for RAG, and an Obsidian Markdown knowledge vault. Designed to securely process corporate documents and clinical protocols locally without relying on external cloud APIs.
